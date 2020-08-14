@@ -1,1 +1,1 @@
-# PRO-C26-Tic-Tac-Toe
+# Tic-Tac-Toe
